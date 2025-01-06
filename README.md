@@ -10,6 +10,7 @@
 
 ## Project build by 
 - AIDE(Developing projects on Android)
+- [Download Sample Project (APK)](https://github.com/developer-krushna/ApkCloner/raw/refs/heads/main/MT%20Apk%20Cloner_1.0.apk)
 
 ## Special thanks to
 - [L-JinBin](https://github.com/L-JINBIN) for providing all such great projects. The concept of this ApkCloner i got from MT Manager which is actually a VIP function but i was created it myself by analysing each AndroidManifest.xml files and added this function in Modder Hub project
