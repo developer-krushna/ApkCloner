@@ -13,7 +13,7 @@
 
 ## Special thanks to
 - [L-JinBin](https://github.com/L-JINBIN) for providing all such great projects. The concept of this ApkCloner i got from MT Manager which is actually a VIP function but i was created it myself by analysing each AndroidManifest.xml files and added this function in Modder Hub project
-- [Timscriptov](https://github.com/timscriptov) for modifying both [pxb-axml](https://github.com/timscriptov/axmlparser) and [bin-zip](https://github.com/timscriptov/apkparser)
+- [Timscriptov](https://github.com/timscriptov) for modifying [bin-zip](https://github.com/timscriptov/apkparser)
 - [ChatGPT](https://chatgpt.com) for helping me to add comments in the code for better understanding and also helped me to in regex making ☺️
 
 ## This project is already used in Modder Hub
